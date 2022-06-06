@@ -5,7 +5,7 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-python
+    repo: timonweb-forks/sample-python
   name: sample-python
   routes:
   - path: /
@@ -14,7 +14,7 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-python
+    repo: timonweb-forks/sample-python
   name: sample-python-us
   routes:
   - path: /us
